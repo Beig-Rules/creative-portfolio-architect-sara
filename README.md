@@ -1,2 +1,5 @@
-# creative-portfolio-architect-sara
-پورتفولیو خلاق سارا احمدی — معمار و طراح فضا
+# پورتفولیو سارا احمدی
+
+پورتفولیو خلاق معمار فارسی RTL.
+
+https://beig-rules.github.io/creative-portfolio-architect-sara/
